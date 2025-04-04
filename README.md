@@ -1,2 +1,2 @@
-# Riebeeckrand-Skool.css
+# Riebeeckrand-Skool
 A revie on a school event... 
